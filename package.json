@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/filipecancio/minichat#readme",
   "dependencies": {
-    "socket.io": "^4.0.1"
+    "socket.io": "^4.0.1",
+    "socket.io-client": "^4.0.1"
   }
 }
